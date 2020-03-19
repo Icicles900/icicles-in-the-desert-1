@@ -1,7 +1,10 @@
 {
     "name": "Icicles in the Desert",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "servo": "*",
+        "controller": "*",
+        "sevenseg": "*"
     },
     "description": "",
     "files": [
