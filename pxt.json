@@ -6,7 +6,8 @@
         "controller": "*",
         "sevenseg": "*",
         "palette": "*",
-        "Color Fading": "github:jwunderl/pxt-color#v0.1.2"
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.2",
+        "keyboard": "*"
     },
     "description": "",
     "files": [
