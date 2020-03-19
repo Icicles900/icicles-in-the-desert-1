@@ -4,7 +4,9 @@
         "device": "*",
         "servo": "*",
         "controller": "*",
-        "sevenseg": "*"
+        "sevenseg": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.2"
     },
     "description": "",
     "files": [
