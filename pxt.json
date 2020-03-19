@@ -7,7 +7,11 @@
         "sevenseg": "*",
         "palette": "*",
         "Color Fading": "github:jwunderl/pxt-color#v0.1.2",
-        "keyboard": "*"
+        "keyboard": "*",
+        "color-coded-tilemap": "*",
+        "corgio": "*",
+        "jacdac-game": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
